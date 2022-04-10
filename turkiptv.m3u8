@@ -78,7 +78,7 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 
 
 #EXTINF:1 tvg-id="BBNTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2179fd50-0f23-470e-b8ab-3b2e081894e5.png" group-title="Haber",BBN Türk
-https://lives2.canlitv.center/bbnturk.m3u8
+https://rr6---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1649587379&ei=U2BSYuuQFMHXx_APzbqC-A0&ip=78.164.50.190&id=AnV0Bczr88M.1&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=6b&mm=44%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lney&ms=lva%2Crdu&mv=m&mvi=6&pl=22&ctier=A&initcwndbps=780000&hightc=yes&spc=4ocVC0fnG0GEemVdYyHlHf-P17VPy4vxr7tiaZBqKQ&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=iRkbjgl5qOj4QgFTtv0XsVYG&gir=yes&mt=1649565638&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=1KZUMgGOVl_6gz11In&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cctier%2Chightc%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhANPROG8mRmuKgCeQ5o7XniocsAVRFnqjFdqdTjHZpI_3AiEAv-DQ4NqcIBs9azfMx-BR2_ep31KHOYE443eK1gSCJOU%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKv_TWs21yUKO6CcYmFrvCggKd816JqmIv_ONSA1pTeCAiBi2fcvQDVAN8vOGvUAdrsayIC-ShRFwEgIm7e...
 #EXTINF:1 tvg-id="BenguTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/def85e18-d7ee-45bb-a7a9-ab117e011811.png" group-title="Haber",Bengütürk TV
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:1 tvg-id="CemTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5a82dd69-49ab-4aea-addd-958382d94fca.png" group-title="Haber",Cem TV
