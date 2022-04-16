@@ -10,7 +10,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:1 tvg-id="TLCTurkey.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf8d5574-eba6-4fe0-83c9-feca7c47591d.png" group-title="Ulusal",TLC
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
-http://tv.evaiptv.stream:25461/ErsoyA/8mtpf4vile/34221.m3u8
+http://tv.evaiptv.stream:25461/ErsoyA/8mtpf4vile/34221
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Ulusal",Star TV
